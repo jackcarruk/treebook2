@@ -2,3 +2,8 @@ mark:
   first_name: "Mark"
   last_name: "Carr"
   email: "mark@gmail.com"
+
+jane:
+  first_name: "Jane"
+  last_name: "Carr"
+  email: "jane@gmail.com"
